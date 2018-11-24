@@ -1,0 +1,15 @@
+{
+  "name": "@mod-cli/nextjs-redux-example-plugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-syntax-class-properties": "^6.13.0",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "constant-case": "^2.0.0",
+    "recast": "^0.16.1"
+  }
+}
